@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/mom_made-pancakes-green">
   <img src="https://img.shields.io/badge/certified-idiot-green">
 
-<p>i'm a <i>(bad)</i> programmer and a silly person that also happens to sometimes make games.</p>
+<p>i'm a <i>(cute)</i> programmer and a silly person that also happens to sometimes make games.</p>
 
 </div>
 
